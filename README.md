@@ -9,5 +9,5 @@ curl http://localhost:8080/hello-all
 curl -u user:password http://localhost:8080/hello-user
 
 # Accessing the hello-admin endpoint (authentication required)
-curl -u admin:password http://localhost:8080/hello-admin
+curl -u admin:adminpassword http://localhost:8080/hello-admin
 
